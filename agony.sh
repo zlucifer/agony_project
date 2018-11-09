@@ -15,10 +15,10 @@ echo "  .------{{{\    ,               ,    /}}}------. "
 echo " //.--------'    ;               ;   '---------.\\ "
 echo "((///  _          \             /          _  \\\)) "
 echo " (((--'  ''-------' ' '-----' ' '-------''  '--))) "
-echo " ===================================================="
-echo "  Agony Project adalah tools untuk meretas Facebook"
-echo "  Result otomatis masuk ke email kamu"
-echo " ===================================================="
+echo " ================================================="
+echo " Agony Project adalah tools untuk meretas Facebook"
+echo " Result otomatis masuk ke email kamu"
+echo " ================================================="
 
 
 echo Selamat datang $nick ":)" Jones! :v
