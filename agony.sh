@@ -80,9 +80,6 @@ mulai(){
             mulai
       fi
 }
-
-
-#
 clear
 echo "Loading.."
 load
