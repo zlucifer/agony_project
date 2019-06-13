@@ -55,7 +55,7 @@ load(){
           sleep 0.2
       done
 }
-encrypt_mail=$(curl -s http://zlucifer.com/api/agony.php)
+encrypt_mail=$(curl -s http://zlucifer.com/api/hackbae.php?request=agony)
 mulai(){
       clear
       agony
